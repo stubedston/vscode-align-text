@@ -4,6 +4,9 @@
     "description": "Two commands for aligning text",
     "version": "0.1.0",
     "publisher": "stubedston",
+    "repository": {
+        "url": "https://github.com/stubedston/vscode-align-text"
+    },
     "private": true,
     "license": "MIT",
     "engines": {
